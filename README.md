@@ -10,11 +10,11 @@
 Ensure Node.js and npm are installed.
 
 Installation Steps
-Clone the Repository
-git clone "https://github.com/Tereshaa/Application-1-Rule-Engine-with-AST.git"
-Install the Backend Dependencies
-npm install
-Create a .env file and add ur Mongo_url
-MONGO_URL=""
-Launch the Server
-npm start
+1. Clone the Repository
+-`git clone "https://github.com/Tereshaa/Application-1-Rule-Engine-with-AST.git"`
+2. Install the Backend Dependencies
+-`npm install`
+3. Create a .env file and add ur Mongo_url
+- `MONGO_URL=""`
+4. Launch the Server
+ - `npm start`
