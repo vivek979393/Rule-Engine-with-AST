@@ -16,7 +16,7 @@ Ensure Node.js and npm are installed.
 
 Installation Steps
 1. Clone the Repository
-- `git clone "https://github.com/Tereshaa/Application-1-Rule-Engine-with-AST.git"`
+- `git clone "https://github.com/vivek979393/Rule-Engine-with-AST.git"`
 2. Install the Backend Dependencies
 - `npm install`
 3. Create a .env file and add ur Mongo_url
@@ -30,3 +30,15 @@ Installation Steps
 ### Backend
 - `cd backend`
 - `npm start`
+# API ENDPOINT
+1. ## CREATE RULE
+   - ### Navigate to the "Create Rule" section on the homepage.
+   - ### Enter a rule string in the input field. Example:
+   - `((age > 30 AND department = 'Marketing')) AND (salary >
+20000 OR experience > 5)"`
+3. ## EVALUATE RULE
+   - ### Navigate to the "Evaluate Rule" section on the homepage.
+   - ### Enter the rule ID you received when creating the rule.
+   - `{"age": 35,
+"department": "Sales", "salary": 60000, "experience": 3}`
+
