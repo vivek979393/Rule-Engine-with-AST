@@ -1,12 +1,14 @@
-Application 1: Rule Engine using AST by Vivek Shukla
+# Application 1: Rule Engine using AST by Vivek Shukla
 
-Tech Stack:
+# Tech Stack:
+
 Backend: Built with Node.js and Express.js
 Database: Utilizes MongoDB
 frontend: React.js
 
-Prerequisites
+# Prerequisites
 Ensure Node.js and npm are installed.
+
 Installation Steps
 Clone the Repository
 git clone "https://github.com/Tereshaa/Application-1-Rule-Engine-with-AST.git"
