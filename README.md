@@ -2,9 +2,9 @@
 
 # Tech Stack:
 
-Backend: Built with Node.js and Express.js
-Database: Utilizes MongoDB
-frontend: React.js
+1.Backend: Built with Node.js and Express.js
+1.Database: Utilizes MongoDB
+3.frontend: React.js
 
 # Prerequisites
 Ensure Node.js and npm are installed.
